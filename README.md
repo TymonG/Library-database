@@ -1,5 +1,27 @@
+## O programie
 
+Library System App to desktopowa aplikacja w architekturze MVVM (WPF, .NET 8) przeznaczona do zarządzania zasobami biblioteki. Umożliwia obsługę bazy danych książek, czytelników oraz rejestrowanie wypożyczeń i zwrotów.
 
+## Główny cel i funkcje
+
+Program służy do automatyzacji pracy biblioteki[cite: 5]. Jego główne funkcje to:
+* **Zarządzanie katalogiem:** dodawanie, edycja, usuwanie i sprawdzanie dostępności książek[cite: 5].
+* **Obsługa czytelników:** rejestracja i ewidencja użytkowników[cite: 5].
+* **Rejestracja zdarzeń:** zapisywanie operacji wypożyczeń i zwrotów w bazie danych[cite: 5].
+* **Przechowywanie danych:** obsługa SQL Server poprzez Entity Framework Core oraz możliwość uruchomienia bazy w Dockerze[cite: 5].
+-----
+ENG
+## About
+
+Library System App is a desktop application built with WPF (.NET 8) using the MVVM architecture, designed for library resource management. It enables database management for books and readers, as well as tracking loans and returns.
+
+## Purpose and Key Features
+
+The application automates core library management operations[cite: 5]. Key features include:
+* **Catalog Management:** Add, edit, remove, and check the availability of books[cite: 5].
+* **User Management:** Register and track library readers[cite: 5].
+* **Event Logging:** Record loan and return transactions in the database[cite: 5].
+* **Data Persistence:** SQL Server support via Entity Framework Core, with optional Docker deployment[cite: 5].
 
 ### Prerequisites
 
