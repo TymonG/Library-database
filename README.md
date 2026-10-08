@@ -4,11 +4,11 @@ Library System App to desktopowa aplikacja w architekturze MVVM (WPF, .NET 8) pr
 
 ## Główny cel i funkcje
 
-Program służy do automatyzacji pracy biblioteki[cite: 5]. Jego główne funkcje to:
-* **Zarządzanie katalogiem:** dodawanie, edycja, usuwanie i sprawdzanie dostępności książek[cite: 5].
-* **Obsługa czytelników:** rejestracja i ewidencja użytkowników[cite: 5].
-* **Rejestracja zdarzeń:** zapisywanie operacji wypożyczeń i zwrotów w bazie danych[cite: 5].
-* **Przechowywanie danych:** obsługa SQL Server poprzez Entity Framework Core oraz możliwość uruchomienia bazy w Dockerze[cite: 5].
+Program służy do automatyzacji pracy biblioteki. Jego główne funkcje to:
+* **Zarządzanie katalogiem:** dodawanie, edycja, usuwanie i sprawdzanie dostępności książek.
+* **Obsługa czytelników:** rejestracja i ewidencja użytkowników.
+* **Rejestracja zdarzeń:** zapisywanie operacji wypożyczeń i zwrotów w bazie danych.
+* **Przechowywanie danych:** obsługa SQL Server poprzez Entity Framework Core oraz możliwość uruchomienia bazy w Dockerze.
 -----
 ENG
 ## About
@@ -17,12 +17,11 @@ Library System App is a desktop application built with WPF (.NET 8) using the MV
 
 ## Purpose and Key Features
 
-The application automates core library management operations[cite: 5]. Key features include:
-* **Catalog Management:** Add, edit, remove, and check the availability of books[cite: 5].
-* **User Management:** Register and track library readers[cite: 5].
-* **Event Logging:** Record loan and return transactions in the database[cite: 5].
-* **Data Persistence:** SQL Server support via Entity Framework Core, with optional Docker deployment[cite: 5].
-
+The application automates core library management operations. Key features include:
+* **Catalog Management:** Add, edit, remove, and check the availability of books.
+* **User Management:** Register and track library readers.
+* **Event Logging:** Record loan and return transactions in the database.
+* **Data Persistence:** SQL Server support via Entity Framework Core, with optional Docker deployment.
 ### Prerequisites
 
 - .NET 10 SDK
